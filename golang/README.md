@@ -2,6 +2,8 @@
 
 # Implementação em Go (Golang)
 
+Para aprender [**Golang** veja o meu curso!](https://www.udemy.com/course/detonando-projetos-de-api-com-golang/?referralCode=F01A2FD4A1E0215EE459)
+
 **Go** (**Golang**) é uma linguagem de programação poderosa, versátil, fácil de aprender e que compila em código nativo. Excelente escolha se a performance é sua preocupação. Não possui um conceito pleno de **Orientação a Objetos**, mas sua simplicidade compensa isso. 
 
 A princípio daria sim para criar um servidor **REST** só com os recursos da linguagem, sem utilizar framework algum. Porém, o **Gin** tem se tornado muito popular e vamos utilizar aqui. 

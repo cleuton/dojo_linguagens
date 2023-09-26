@@ -14,10 +14,10 @@ Este é um repositório apresentando 4 linguagens de programação (**Golang**, 
 
 As aplicações apresentadas aqui fazem todas a mesma coisa: Permitem cadastrar uma URL em um database **REDIS** e recuperá-la. Eu utilizei os **REST** frameworks mais comuns para cada linguagem: 
 
-- [**Java**](./java/): **Spring** gerando código com **SpringBoot**.
-- [**Go**](./golang/): **Gin**.
-- [**Kotlin**](./kotlin/): Poderia usar **Ktor**, mas preferi usar **Spring**.
-- [**Python**](./python/): Utilizei **Django**, que é bem popular. 
+- [**Java**](./java/): **Spring** gerando código com **SpringBoot**. Confira [**meu curso**](https://www.udemy.com/course/bootcamp-dev-senior/?referralCode=A75BA46BC1F06CD04A51).
+- [**Go**](./golang/): **Gin**. Confira o [**meu curso**](https://www.udemy.com/course/detonando-projetos-de-api-com-golang/?referralCode=F01A2FD4A1E0215EE459).
+- [**Kotlin**](./kotlin/): Poderia usar **Ktor**, mas preferi usar **Spring**. Aqui tenho um curso de [**Kotlin para Android**](https://github.com/cleuton/androidapps/tree/master/cursobasico), estou preparando um de backend também. 
+- [**Python**](./python/): Utilizei **Django**, que é bem popular. Confira o [**meu curso**](https://www.udemy.com/course/programacao-backend-com-python/?referralCode=66FCB81EBF2D08B0FF7D).
 
 O REDIS é lançado em um **Contêiner Docker**. Estas aplicações a princípio rodam em qualquer sistema operacional. 
 

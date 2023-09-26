@@ -2,6 +2,8 @@
 
 # Implementação Java
 
+Confira o [**meu curso**](https://www.udemy.com/course/bootcamp-dev-senior/?referralCode=A75BA46BC1F06CD04A51)
+
 Você não conseguirá criar um RESTful service utilizando apenas Java. Ao contrário de outras linguagens de programação, Java é extremamente verbosa para isto. Em princípio, você poderia utilizar o pacote java.net, criar socket etc, mas isso seria antiprodutivo e não é o que as pessoas utilizam por aí.
 
 Para ser justo, usei o pacote **Spring**, muito popular entre os desenvolvedores **backend**.

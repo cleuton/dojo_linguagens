@@ -2,6 +2,8 @@
 
 # Implementação Kotlin
 
+Aqui tem um curso de [**Kotlin para Android**](https://github.com/cleuton/androidapps/tree/master/cursobasico) que eu fiz. É totalmente gratuito e te ensina o básico da linguagem. Estou preparando um curso de Kotlin para backend. 
+
 Certamente, você ouviu dizer que **Kotlin** é utilizada para aplicações **Android**. Sim, é. Mas é uma linguagem de programação baseada na **JVM** e pode ser utilizada para **backend**. 
 
 Você não conseguirá criar um RESTful service utilizando apenas Kotlin. Ao contrário de outras linguagens de programação, Kotlin é extremamente verbosa para isto. 

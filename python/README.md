@@ -2,6 +2,8 @@
 
 # Implementação Python
 
+Confira o [**meu curso**](https://www.udemy.com/course/programacao-backend-com-python/?referralCode=66FCB81EBF2D08B0FF7D).
+
 Python é uma linguagem de programação simples porém muito poderosa e versátil. É possível criar facilmente uma aplicação **REST** sem utilizar biblioteca ou framework algum, porém, o framework **Django** é extremamente popular no mundo Python e, por esta razão, resolvi utilizá-lo. 
 
 ## Executando a aplicação
