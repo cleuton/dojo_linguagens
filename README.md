@@ -14,10 +14,10 @@ Este é um repositório apresentando 4 linguagens de programação (**Golang**, 
 
 As aplicações apresentadas aqui fazem todas a mesma coisa: Permitem cadastrar uma URL em um database **REDIS** e recuperá-la. Eu utilizei os **REST** frameworks mais comuns para cada linguagem: 
 
-- [**Java**](./java): **Spring** gerando código com **SpringBoot**.
-- **Go**: **Gin**.
-- **Kotlin**: Poderia usar **Spring** ou **Ktor**, mas preferi usar **Quarkus**.
-- **Python**: Utilizei **Django**, que é bem popular. 
+- [**Java**](./java/): **Spring** gerando código com **SpringBoot**.
+- [**Go**](./golang/): **Gin**.
+- [**Kotlin**](./kotlin/): Poderia usar **Ktor**, mas preferi usar **Spring**.
+- [**Python**](./python/): Utilizei **Django**, que é bem popular. 
 
 O REDIS é lançado em um **Contêiner Docker**. Estas aplicações a princípio rodam em qualquer sistema operacional. 
 

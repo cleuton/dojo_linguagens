@@ -1,3 +1,5 @@
+![](./kotlin.png)
+
 # Implementação Kotlin
 
 Certamente, você ouviu dizer que **Kotlin** é utilizada para aplicações **Android**. Sim, é. Mas é uma linguagem de programação baseada na **JVM** e pode ser utilizada para **backend**. 

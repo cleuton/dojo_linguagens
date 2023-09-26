@@ -1,3 +1,5 @@
+![](./java.png)
+
 # Implementação Java
 
 Você não conseguirá criar um RESTful service utilizando apenas Java. Ao contrário de outras linguagens de programação, Java é extremamente verbosa para isto. Em princípio, você poderia utilizar o pacote java.net, criar socket etc, mas isso seria antiprodutivo e não é o que as pessoas utilizam por aí.
